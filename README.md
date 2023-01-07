@@ -8,4 +8,6 @@ To try database connectivity in this project following it is required to perform
 3. Extract and store this code in C:\xampp\htdocs 
 4. run xampp control pannal and start Apache and MySQL 
 5. Go to browser and type localhost/{folder_name}/src
-6. the website will run
+6. the website will run properly
+7. to check the database connectivity, kindly go to appointment section, enter data, click on book appointment.
+you can check the implementation of Azure mysql database.
